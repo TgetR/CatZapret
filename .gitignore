@@ -1,3 +1,28 @@
-# Игнорируем папки сборки .NET
+# Сборочные папки
 bin/
 obj/
+out/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.sln.docstates
+
+# Конфигурации и кеш
+*.log
+*.userprefs
+*.csproj.user
+*.dbmdl
+*.pdb
+
+# Папка публикации
+publish/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Папки зависимостей
+packages/
