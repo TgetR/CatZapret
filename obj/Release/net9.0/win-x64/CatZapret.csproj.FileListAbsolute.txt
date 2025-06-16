@@ -1,0 +1,14 @@
+D:\GitHub\CatZapret\bin\Release\net9.0\win-x64\CatZapret.exe
+D:\GitHub\CatZapret\bin\Release\net9.0\win-x64\CatZapret.deps.json
+D:\GitHub\CatZapret\bin\Release\net9.0\win-x64\CatZapret.runtimeconfig.json
+D:\GitHub\CatZapret\bin\Release\net9.0\win-x64\CatZapret.dll
+D:\GitHub\CatZapret\bin\Release\net9.0\win-x64\CatZapret.pdb
+D:\GitHub\CatZapret\obj\Release\net9.0\win-x64\CatZapret.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CatZapret\obj\Release\net9.0\win-x64\CatZapret.AssemblyInfoInputs.cache
+D:\GitHub\CatZapret\obj\Release\net9.0\win-x64\CatZapret.AssemblyInfo.cs
+D:\GitHub\CatZapret\obj\Release\net9.0\win-x64\CatZapret.csproj.CoreCompileInputs.cache
+D:\GitHub\CatZapret\obj\Release\net9.0\win-x64\CatZapret.dll
+D:\GitHub\CatZapret\obj\Release\net9.0\win-x64\refint\CatZapret.dll
+D:\GitHub\CatZapret\obj\Release\net9.0\win-x64\CatZapret.pdb
+D:\GitHub\CatZapret\obj\Release\net9.0\win-x64\CatZapret.genruntimeconfig.cache
+D:\GitHub\CatZapret\obj\Release\net9.0\win-x64\ref\CatZapret.dll

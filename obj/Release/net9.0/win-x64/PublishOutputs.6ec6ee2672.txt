@@ -1,0 +1,2 @@
+D:\GitHub\CatZapret\bin\Release\net9.0\win-x64\publish\CatZapret.pdb
+D:\GitHub\CatZapret\bin\Release\net9.0\win-x64\publish\CatZapret.exe
